@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    background: url(/imagenes/3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Simonetta", serif;
+    font-size: 2vh;
+}
+.barra{
+    display: flex;
+    background-color:  #b4907c;
+    align-items: center;
+    justify-content: space-around;
+    height: 10vh;
+}
+#f1{
+    text-decoration: none;
+    color: black; 
+}
+.demas{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.me{
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.all{
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 28%;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   margin-top: 7%;
+}
